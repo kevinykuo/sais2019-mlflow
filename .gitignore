@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+logs
+derby.log
+mlruns
+spark_model
+training_history.png
